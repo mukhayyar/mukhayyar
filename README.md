@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**mdien/mdien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-->
+- 🌱 I’m currently learning Machine Learning, PHP & Node.js Framework, Data Analyst, and Web Scraping
+<!--
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-->
+- 🤔 I’m looking for help with Machine Learning and Data Analyst
+- 💬 Ask me about PHP, Javascript, and Python
+- 📫 How to reach me: m3g3nz2@gmail.com
+- 😄 Pronouns: T.S.A.Q.I.F
+<!--
 - ⚡ Fun fact: ...
+-->
 -->
