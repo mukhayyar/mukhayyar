@@ -13,6 +13,10 @@ Passionate about <b>Artificial Intelligence</b>, <b>Computer Vision</b>, and <b>
 <a href="https://www.linkedin.com/in/tsaqifmukhayyar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+💼 My Current Projects
+AGL App Store:
+RaspiV2Bot KAIT:
+
 📊 My GitHub Stats & WakaTime Activity
 <!--START_SECTION:stats-->
 
